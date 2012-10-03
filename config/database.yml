@@ -43,6 +43,7 @@ test:
   encoding: unicode
   database: microblog_app_test
   pool: 5
+  host: localhost
   username: microblog
   password:
 
